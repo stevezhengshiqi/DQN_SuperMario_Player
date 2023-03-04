@@ -51,6 +51,6 @@ The last 100 reward trend is shown in Figure 2.
 
 
 ## Acknowledgements
-- Part of the code is built based on [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) by Mnih, Volodymyr, et al.
+- Part of the code is built based on *[Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)* by Mnih, Volodymyr, et al.
 - Also thanks to John N Tsitsiklis and Benjamin Van Roy and their paper *An analysis of temporal-difference learning with function approximation*. Automatic Control, IEEE Transactions on, 42(5):674–690, 1997.
 - Thanks to [Deep-Reinforcement-Learning-Hands-On](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On/blob/master/Chapter06/lib/wrappers.py) and [REINFORCEMENT LEARNING (DQN) TUTORIAL](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html).
