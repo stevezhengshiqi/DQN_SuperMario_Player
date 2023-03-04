@@ -1,0 +1,9 @@
+# macOS
+._*
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints/*
+
+# SummaryWriter
+runs/*

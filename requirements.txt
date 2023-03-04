@@ -1,0 +1,10 @@
+gym
+gym-super-mario-bros
+matplotlib
+nes-py
+numpy
+opencv-python
+tensorboard
+torch
+torch-summary
+torchinfo
