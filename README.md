@@ -6,12 +6,14 @@ Apply a DQN model to play Mario games by Shiqi Zheng. Final Project for [CIS4930
 ## Introduction
 Demo
 <p align="center">
-    <img src="Docs/img/DQN_super_mario_demo.gif" width="400" />
+    <img src="Docs/img/DQN_super_mario_demo.gif" height="256" />
 </p>
+
 DQN Super Mario Player Structure Overview
 <p align="center">
-    <img src="Docs/img/DQN_structure.png" width="400" />
+    <img src="Docs/img/DQN_structure.png" height="256" />
 </p>
+
 To read more details, please view [Deep Reinforcement Learning with Mario Games.pdf](Docs/Deep%20Reinforcement%20Learning%20with%20Mario%20Games.pdf).
 
 
@@ -41,6 +43,7 @@ The 100 times rewards results are summarized in Table 1.
 <p align="center">
     <img src="Docs/img/result_total_score.png" width="400" />
 </p>
+
 The last 100 reward trend is shown in Figure 2.
 <p align="center">
     <img src="Docs/img/result_last_100_trend.png" width="400" />
