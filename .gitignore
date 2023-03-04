@@ -4,6 +4,3 @@
 
 # Jupyter Notebook
 .ipynb_checkpoints/*
-
-# SummaryWriter
-runs/*
